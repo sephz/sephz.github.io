@@ -11,7 +11,7 @@ IT
 <i class="fa fa-github"></i> <a href="http://github.com/sephz">sephz</a>
 </div>
 
-A Linux enthusiast, PHP developer with 10+ years of experience.
+A Linux enthusiast, PHP developer with 12 years of experience.
 
 ## Currently
 

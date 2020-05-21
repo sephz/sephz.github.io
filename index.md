@@ -7,6 +7,8 @@ IT
 
 <div id="webaddress">
 <a href="mailto:kjchew82@gmail.com">kjchew82@gmail.com</a>
+|
+<i class="fa fa-github"></i> <a href="http://github.com/sephz">sephz</a>
 </div>
 
 A Linux enthusiast, PHP developer with 10+ years of experience.

@@ -15,12 +15,12 @@ A Linux enthusiast, PHP developer with 12 years of experience.
 
 ## Currently
 
-I'm an IT Solution Specialist at Achiko Limited., base at Malaysia. Here I am maintaining, and extending the payment gateway system written by myself, managing the architecture of the system, which it is hosted in AWS.
+I'm an IT Solution Specialist at Achiko Limited., base in Malaysia. Here I am maintaining, and extending the payment gateway system written by myself, managing the architecture of the system, which it is hosted in AWS.
 
 ## Work Experience
 
 `2011-present` 
-__PT Progressivmedia Indonesia__ Tech Sepcialist, co-founded Mimopay, then acquired by Achiko Limited. Developed the initial version of system in Codeigniter 2.2, later rewrote it using laravel 5+. Handling the servers of the system, from physical servers, later migrated to AWS. Integrated APIs from different service providers, ( telco, banks, ewallets ). Provide integration supports to more than 100 partners. Oversee customer care and testing teams.
+__PT Progressivmedia Indonesia__ Tech Sepcialist, co-founded Mimopay, then acquired by Achiko Limited. Developed the initial version of system in Codeigniter 2.2, later rewrote it using laravel 5+. Handling the servers of the system, from physical servers, later migrated to AWS. Integrated APIs from different service providers, ( telco, banks, ewallets ). Provide integration supports to more than 100 partners. Managing a 9 person team of developers and customer service representatives.
 
 `2011-2011`
 __Avira Sdn Bhd__ Tech. Support, An anti-virus company, providing supports to end users, malware removal.

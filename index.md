@@ -11,15 +11,15 @@ IT
 <i class="fa fa-github"></i> <a href="http://github.com/sephz">sephz</a>
 </div>
 
-A Linux enthusiast, PHP developer with 12 years of experience.
+A Linux enthusiast, PHP developer with 14 years of experience.
 
 ## Currently
 
-I'm an IT Solution Specialist at Achiko Limited., base in Malaysia. Here I am maintaining, and extending the payment gateway system written by myself, managing the architecture of the system, which it is hosted in AWS.
+I am a Senior Software Developer at IMT Tech Sdn. Bhd, Malaysia. Here I am maintaining, and extending the property management system, managing the architecture of the system, which it is hosted in DO.
 
 ## Work Experience
 
-`2011-present` 
+`2011-2020` 
 __PT Progressivmedia Indonesia__ Tech Sepcialist, co-founded Mimopay, then acquired by Achiko Limited. Developed the initial version of system in Codeigniter 2.2, later rewrote it using laravel 5+. Handling the servers of the system, from physical servers, later migrated to AWS. Integrated APIs from different service providers, ( telco, banks, ewallets ). Provide integration supports to more than 100 partners. Managing a 9 person team of developers and customer service representatives.
 
 `2011-2011`
@@ -42,7 +42,6 @@ __Multimedia University__  Bachelor's Degree in Engineering (Electrical/Electron
 * Docker
 * jQuery, VueJs
 * AWS
-* GCP
 
 ## Languages
 
